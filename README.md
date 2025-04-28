@@ -7,7 +7,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 ## 📊 GitHub Stats
-![João's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaohenrique&show_icons=true&theme=dracula)
+![João's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jhacss&show_icons=true&theme=dracula)
 
 ---
 🔗 **Me encontre:**
